@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Gestures"
+title: "Gestures
 description: "Gestures control"
 order: 5
 disqus: 1
